@@ -1,0 +1,11 @@
+simulation: true
+
+environment_thresholds:
+  temperature_high: 30
+  humidity_high: 75
+  smoke_high: 0.75
+  gas_high: 0.75
+
+fall_detection:
+  high_risk_score: 60
+  medium_risk_score: 35

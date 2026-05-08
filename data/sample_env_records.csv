@@ -1,0 +1,3 @@
+created_at,temperature,humidity,smoke,gas,alert
+2026-05-08 10:00:00,25.4,56.2,0.12,0.18,Normal
+2026-05-08 10:05:00,31.1,78.3,0.22,0.19,"High temperature, High humidity"
