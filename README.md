@@ -199,12 +199,3 @@ Then add them here:
 ![Environment Monitoring](screenshots/environment.png)
 ![Fall Detection](screenshots/fall_detection.png)
 ```
-
----
-
-## 10. Resume and Blog Materials
-
-- Resume bullets: `docs/resume-bullets.md`
-- Blog outline: `docs/blog-outline.md`
-- Interview script: `docs/interview-script.md`
-- GitHub upload guide: `docs/github-upload-guide.md`
